@@ -10,4 +10,4 @@ I'm taking the dataset from kaggle:
 https://www.kaggle.com/datasets/sohommajumder21/appliances-energy-prediction-data-set 
 
 Kindly reach me out on linkedin for any advice or discussion about my model at: 
-linkedin.com/in/andonifikri
+linkedin.com/in/andonifikri 
