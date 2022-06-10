@@ -9,5 +9,6 @@ The model that I'm developing will try to answer this question:
 I'm taking the dataset from kaggle: 
 https://www.kaggle.com/datasets/sohommajumder21/appliances-energy-prediction-data-set 
 
-Kindly reach me out on linkedin for any advice or discussion about my model at: 
-linkedin.com/in/andonifikri 
+The model that I've created gives few insights: 
+1. There is alot of multicollinearity within the data set. 
+2. Ridge regression modelling seems to be inacurate to predict the energy usage.
